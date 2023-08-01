@@ -1,0 +1,17 @@
+{
+  "name": "type-compose",
+  "version": "1.0.0",
+  "description": "Creates a compose function that works in typescript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Eduardo Sanchez",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
